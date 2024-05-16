@@ -1,0 +1,24 @@
+{
+    "name": "Unity.CppInator.Codegen",
+    "rootNamespace": "Unity.CppInator.Codegen",
+    "references": [
+        "GUID:61ab327ece1ec8f4b84387a62523ecee"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.nuget.mono-cecil",
+            "expression": "",
+            "define": "UNITY_MONO_CECIL"
+        }
+    ],
+    "noEngineReferences": false
+}

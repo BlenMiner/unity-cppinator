@@ -1,0 +1,16 @@
+{
+    "name": "CppInator.Example.MeshGen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:61ab327ece1ec8f4b84387a62523ecee"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
